@@ -4,6 +4,52 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w6lNRmHOkz5iN05SBwit-62" value="&lt;div&gt;LANDING PAGE&lt;/div&gt;(LANDING)/&lt;div&gt;Page.tsx&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="374" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-70" value="START" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
+          <mxGeometry x="30" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w6lNRmHOkz5iN05SBwit-73" target="w6lNRmHOkz5iN05SBwit-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6lNRmHOkz5iN05SBwit-73" target="w6lNRmHOkz5iN05SBwit-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6lNRmHOkz5iN05SBwit-73" target="w6lNRmHOkz5iN05SBwit-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6lNRmHOkz5iN05SBwit-73" target="w6lNRmHOkz5iN05SBwit-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-73" value="KINDE LOGIN" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-74" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6lNRmHOkz5iN05SBwit-62" target="w6lNRmHOkz5iN05SBwit-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="340" as="sourcePoint" />
+            <mxPoint x="270" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="340" />
+              <mxPoint x="220" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-78" value="Music/page.tsx" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="484" y="363" width="101" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-81" value="SUCCESSFUL&lt;div&gt;LOGIN&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-88" value="My-music/&lt;div&gt;page.tsx&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="484" y="500" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-89" value="MUSIC-LABS/&lt;div&gt;PAGE.TSX&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="630" width="104" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="w6lNRmHOkz5iN05SBwit-90" value="SETTINGS&lt;div&gt;/PAGE.TSX&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
